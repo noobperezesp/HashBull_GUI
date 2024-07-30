@@ -1,3 +1,6 @@
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=voidregreso/HashBull_GUI&type=Date)](https://star-history.com/#voidregreso/HashBull_GUI&Date)
 
 ### What is Hashbull? ###
 
@@ -37,7 +40,6 @@ a list of words which can then be used for password crackers such as Hashcat.
 <br>
 <br>
 **Maskprocessor** - Maskprocessor is a High-Performance word generator with a per-position configureable charset.
-<br>
 <br>
 <br>
 
